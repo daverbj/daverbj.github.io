@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   RAG systems, and full-stack software engineering. Sharing insights on AI/ML 
   architectures, enterprise technology strategy, and digital transformation.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://daverbj.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: daverbj
 github_username: daverbj
 
